@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path((?!assets/|js|svg)*)",
+      "destination": "https://hacktoberfest-2022.vercel.app/entry/fredoist/"
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://hacktoberfest-2022.vercel.app/:path"
+    }
+  ]
+}
