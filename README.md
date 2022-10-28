@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://www.figma.com/file/DCm7W3cWbNEpoNRy9rFjFH/Cyberpunk-Password-Generator?node-id=42%3A941">
+  <a href="https://www.figma.com/community/file/1167934186210755390">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
   &nbsp;
