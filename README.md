@@ -34,6 +34,8 @@
 
 A hackathon project built for the Hacktoberfest 2022 event by [midudev](https://github.com/midudev). The project was inspired by the recent release of Cyberpunk: Edgerunners in Netflix.
 
+## Features
+
 The main hackathon requirements were to create a password generator which included a slider for password length and a copy button. My hackathon entry included the following features:
 
 - Randomly generate a password.
@@ -48,4 +50,18 @@ The main hackathon requirements were to create a password generator which includ
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Source Code
+
+Find this project source code in the following routes:
+
+- [pages](https://github.com/midudev/password-generator/tree/main/src/pages/fredoist)
+- [components](https://github.com/midudev/password-generator/tree/main/src/components/fredoist)
+- [hooks](https://github.com/midudev/password-generator/tree/main/src/hooks/fredoist)
+- [assets](https://github.com/midudev/password-generator/tree/main/public/fredoist)
+
+## Contribute
+
+This project is not accepting PRs at this moment, but you can always [open an issue](https://github.com/fredoist/password-generator/issues/new) if you find a bug.
