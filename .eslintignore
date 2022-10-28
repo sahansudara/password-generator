@@ -1,7 +1,0 @@
-dist/
-.output/
-node_modules/
-*.svelte
-*.vue
-*.css
-*.svg
